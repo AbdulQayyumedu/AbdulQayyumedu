@@ -28,10 +28,6 @@
 
 ###
 
-<img align="right" height="175" src="https://gifsec.com/wp-content/uploads/2022/10/aesthetic-gif-4.gif"  />
-
-###
-
 <img src="https://raw.githubusercontent.com/AbdulQayyumedu/AbdulQayyumedu/output/snake.svg" alt="Snake animation" />
 
 ###
